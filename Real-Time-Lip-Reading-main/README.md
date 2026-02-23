@@ -50,7 +50,6 @@ This project implements an **Audio-Visual Speech Recognition (AVSR)** system tha
 
 4. **Install Ollama** (for LLM post-processing)
    ```bash
-   curl -fsSL https://ollama.com/install.sh | sh
    ollama pull llama3.2
    ```
 
@@ -266,12 +265,6 @@ This project is for educational and research purposes. Pre-trained models are su
 - **Ollama**: Local LLM inference engine
 - **MediaPipe**: Google's ML solutions for face detection
 
-## 📧 Contact
 
-For questions or issues, please open an issue on the repository.
-
----
-
-**Version**: 1.0  
-**Last Updated**: November 2025
+**Last Updated**: February 2026
 
